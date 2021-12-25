@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(126, 138, 101);
+}
+h1,h2,h3{
+    font-family: 'Indie Flower', cursive;
+}
+
+#paragraf-bir{
+    max-width: 900px;   
+}
+
+footer{
+   text-align: center;
+}
+
+a{
+    color:black
+}
+
+aside{
+    position: absolute;
+    top: 200px;
+    right:300px;
+
+}
+
+.article{
+
+    max-width: 700px;
+    background-color: rgb(221, 206, 178); 
+}
+
+#article-iki{
+
+    text-align: center;
+}
+
+#aside-iki{
+
+    position: absolute;
+    top: 370px;
+    right:300px;
+
+}
